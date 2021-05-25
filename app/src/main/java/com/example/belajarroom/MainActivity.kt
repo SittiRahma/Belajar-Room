@@ -12,6 +12,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.belajarroom.R
 import com.example.belajarroom.db.Note
 import com.example.belajarroom.ui.NoteViewModel
+import com.example.belajarroom.ui.NoteAdapter
 import kotlinx.android.synthetic.main.activity_main.*
 
 
